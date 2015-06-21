@@ -1,5 +1,5 @@
 ```
-Week-1
+Week-1 - Infinity
 
 -- Introduction
 -- Arguments and Paradoxes
