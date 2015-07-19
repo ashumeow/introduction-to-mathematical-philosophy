@@ -1,5 +1,5 @@
 ```
-Week - 10
+Week - 10 - Epistemic Foundations of Game Theory
 
 1 - Introduction
 
